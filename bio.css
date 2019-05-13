@@ -1,0 +1,193 @@
+body {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 30px;
+    background-color: black;
+    color: #FCE154;    
+}
+
+main h1 {
+
+font-size: 90px;
+background-color: #DA1F28;
+text-align: center;
+
+}
+
+h2 {
+    
+font-size: 60px;
+background-color: #DA1F28;
+
+    
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    background-color: #D9E5E3;
+}
+
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+}
+
+nav a {
+    color: #F2FFFC;
+}
+
+main a {
+    color: #851944;
+}
+
+aside a {
+    color: inherit;
+}
+
+main h1 {
+    padding: 25px;
+}
+
+blockquote, aside, footer {
+    padding: 20px;
+}
+
+div {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    text-align: left;
+}
+
+body {
+    line-height: 1.5;
+}
+
+blockquote {
+    border: 10px solid #C2CCCA;
+}
+
+main h1 {
+    border-bottom: 10px solid yellow;
+}
+
+p {
+    margin: 20px 0;
+}
+
+aside h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+main div {
+    padding: 30px 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#icones-sociais li {
+    display: inline-block;
+}
+
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+main {
+    width: 80%;
+}
+
+img,
+aside {
+    width: 20%;
+    float: right;
+}
+
+aside {
+    clear: right;
+}
+
+aside {
+    box-sizing: border-box;
+}
+
+main {
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
+img {
+    position: fixed;
+    width: 390px;
+    top: 0;
+    right: 0;
+}
+
+aside {
+    position: fixed;
+    top: 390px;
+    right: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+main {
+    padding-bottom: 80px;
+}
+
+.minha-foto, .navegacao-site {
+	float: right;
+	box-sizing: border-box;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+}
+
+.minha-foto {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.navegacao-site {
+	width: 15%;
+	position: relative;
+	top: 310px;
+}
